@@ -1,0 +1,448 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>VVonderfull predictions declared in a message, as from the Lord, to his Excellency Sr. Thomas Fairfax and the Councell of his Army. / By John Saltmarsh preacher of the Gospell. His severall speeches, and the manner of his death. December 29. 1647. This narrative concerning Mr. Saltmarsh hath been sent to the Army; and there perused, corrected, and made perfect, to be printed and published for the kindgomes satisfaction. Imprimatur, Gilbert Mabbot.</title>
+            <author>Saltmarsh, John, d. 1647.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93713</idno>
+            <idno type="STC">Wing S507</idno>
+            <idno type="STC">Thomason E421_16</idno>
+            <idno type="STC">ESTC R2471</idno>
+            <idno type="EEBO-CITATION">99872069</idno>
+            <idno type="PROQUEST">99872069</idno>
+            <idno type="VID">124491</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93713)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124491)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E421[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>VVonderfull predictions declared in a message, as from the Lord, to his Excellency Sr. Thomas Fairfax and the Councell of his Army. / By John Saltmarsh preacher of the Gospell. His severall speeches, and the manner of his death. December 29. 1647. This narrative concerning Mr. Saltmarsh hath been sent to the Army; and there perused, corrected, and made perfect, to be printed and published for the kindgomes satisfaction. Imprimatur, Gilbert Mabbot.</title>
+                  <author>Saltmarsh, John, d. 1647.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson, in Smithfield, neer the Queenes-head Tavern,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With title-page woodcuts.</note>
+                  <note>Annotations on Thomason copy: "1647"; the "8" in the imprint has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671.</term>
+               <term>Saltmarsh, John, d. 1647.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Prophecies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124491:1" rendition="simple:additions"/>
+            <p>VVonderfull
+PREDICTIONS
+DECLARED
+In a MESSAGE, as from the LORD,
+To his Excellency
+S<hi rend="sup">R.</hi> THOMAS FAIRFAX
+and the Councell of His Army.</p>
+            <p>By JOHN SALTMARSH Preacher of the Goſpell.</p>
+            <p>His ſeverall ſpeeches, and the manner of his Death.</p>
+            <p>
+               <hi>December</hi> 29. 1647.</p>
+            <p>THis Narrative concerning Mr. <hi>Saltmarſh</hi> hath been ſent to the Army; and there per<g ref="char:EOLhyphen"/>uſed,
+corrected, and made perfect, to be printed and publiſhed for the Kingdomes: ſatiſ<g ref="char:EOLhyphen"/>faction.
+<hi>Imprimatur, Gilbert Mabbot.</hi>
+            </p>
+            <figure/>
+            <p>Printed at <hi>London</hi> by <hi>Robert Ibbitſon,</hi> in Smithfield, neer the
+Queenes-head Tavern, 164<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+      </front>
+      <body>
+         <div type="printer_to_the_reader">
+            <pb facs="tcp:124491:2"/>
+            <pb n="1" facs="tcp:124491:2"/>
+            <head>The Printer to the Reader.</head>
+            <p>HAving Papers come to my hand to be Printed, concerning theſe
+wonderfull paſſages about Mr. <hi>Saltmarſh;</hi> and adviſing with the
+Licenſer concerning the ſame; It was thought fit that the Papers ſhould
+be firſt communicated to the Army, before they were Printed: And ac<g ref="char:EOLhyphen"/>cordingly
+were ſent to an eminent perſon at the Head-quarters, who (af<g ref="char:EOLhyphen"/>ter
+peruſall and conections) returned them incloſed in a Letter, as fol<g ref="char:EOLhyphen"/>loweth,</p>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <hi>I</hi> Have (at laſt) procured the peruſall of your Relation concerning Mr. <hi>Salt<g ref="char:EOLhyphen"/>marſh,</hi>
+and ſent it you corrected, together with the incloſed <hi>Preamble.</hi> And
+I think the Relation may be fit (for matter of truth) for publique view;
+and being the very plain Narrative of the buſineſſe, it may be for much ſatisfa<g ref="char:EOLhyphen"/>ction
+to the Kingdome therein.</p>
+                  <closer>
+                     <dateline>Windſor <date>27 Decemb. 1647.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <div type="to_the_reader">
+            <head>A Preamble to the Reader.</head>
+            <p>IT is decent to ſpeake honourably of the dead, yet not to be partiall.
+Whilſt Mr. <hi>Saltmarſh</hi> was in the Army, he walked unblameable, kept
+himſelfe to his Text, in labouring to beat down ſin: and exalt Chriſt. He
+medled not with the preſent times; elſe at <hi>Northamton</hi> and other places
+hee had not found ſuch eſteeme: Hee ſtill preached the bonds of love
+and peace, praying that that might bee the cord to unite Chriſtians in
+amitie. He medled not in the Pulpit with Presbytery or Independency.
+He ſoly laboured to draw the ſoule from ſin to Chriſt. Thus he lived a<g ref="char:EOLhyphen"/>mongſt
+Souldiers in time of health, and how his departure was neere
+his death, you will perceive by what inſueth, as to ſo much of it which
+is ſaid to bee done at the Head-quarter; moſt of it may claime beleefe,
+and the reſt probably is true. The circumſtance of paſſages oftentimes
+addes light to darke actions. Hee appeared at the Head-quaters as one
+riſen from the grave, his eyes almoſt fixt in his head, or rather as if he
+had come out of a Trance with feare and trembling to expreſſe his
+dreame. This latter may admit a probable conjecture for without doubt
+hee had trouble upon his ſpirit, till hee vented what hee apprehen<g ref="char:EOLhyphen"/>ded
+hee had in commiſſion, he did not come with bitter revileings and
+reproaches, but rather with wholeſome admonitions to flye that dan<g ref="char:EOLhyphen"/>ger
+which as he apprehended was hanging over the Army, have we not
+<pb n="2" facs="tcp:124491:3"/>
+more cauſe to ſuſpect our ſelves of failings then him of Melancholly in
+what hee ſaid: And may not this bee a good <hi>Memento</hi> to better things,
+though hee perhaps miſtake in the matter hee delivered, yet however
+let not the words of a dying man paſſe unregarded, for it is the heart
+and not the mouth of ſuch a man that ſpeaketh: his carriage was as if
+he were of another world, often expreſſing he ſhould ſee us no more,
+and his heart was eaſed when he delivered his Meſſage, and finiſhing his
+courſe ſo immediately after, it is remarkable.</p>
+         </div>
+         <div type="treatise">
+            <head>Wonderfull Predictions, declared in a Meſſage, as from the
+Lord, to His Excellency Sir Thomas Fairfax, and the
+Counſell of his Army, by Mr. John Saltmarſh,
+Preacher of the Goſpel.</head>
+            <p>Mr. <hi>John Saltmarſh</hi> (a very holy and reverend Divine, of great
+learning and parts) one of the Chaplines to the Army; being at
+his houſe neere <hi>Gilford,</hi> in the County of <hi>Eſſex,</hi> told his wife Saterday
+<hi>December</hi> 4. 1647. that hee had beene in a Trance, ſeene a Viſi<g ref="char:EOLhyphen"/>on,
+and received a command from God, to go preſently to the Army,
+to make knowne to them, what the Lord had revealed to him, which
+would be the laſt work that he had to do for them, and taking his leave
+of his wife, he haſted to <hi>London</hi> that night.</p>
+            <p>He declared to Sir <hi>H. M.</hi> a worthy Knight (a Member of the Houſe
+of Commons) his deare friend (and divers others) that he was ſent by
+the Lord with a Meſſage to the Army, to make known ſome things un<g ref="char:EOLhyphen"/>to
+them, which God had revealed unto him, he ſpake many glorious
+things concerning God and the Saints.</p>
+            <p>That night he lay in <hi>London,</hi> but reſtleſſe to finiſh the buſineſſe hee
+went about.</p>
+            <p>The next morning (it being the Lords day) he found it ſome difficul<g ref="char:EOLhyphen"/>ty
+to procure an Horſe, which put him into a reſolution to walke on
+foote to <hi>Winſor,</hi> rather then ſtay till <hi>Munday,</hi> but after dinner he was
+furniſhed, and mounted about three a clocke in the afternoone, and al<g ref="char:EOLhyphen"/>though
+ignorant of the way, yet (to avoid craftinating) he ridde himſelf
+alone, with a reſolution of ſpeede to the Head-quarters, where he in<g ref="char:EOLhyphen"/>tended
+the Officers a ſalute the next morning, before they ſat in Coun<g ref="char:EOLhyphen"/>cell.</p>
+            <p>But the darke clouds ſoone ſurpriſed him, and (having no guide) he
+by inquiry found that he had digre<gap reason="illegible: blotted" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed a little from the roade, but was
+comforted in his confidence that God was with him.</p>
+            <p>
+               <pb n="3" facs="tcp:124491:3"/>
+About eleven a clocke (that night) he fell into a Towne, about ſeven
+miles on this ſide <hi>Winſor</hi> where he (finding the people up at an Inne)
+alighted, to baite himſelfe and Horſe.</p>
+            <p>Whileſt hee ſtaied there, he ſpoke (as it is ſaid) of many wonderfull
+things, which the Lord had revealed to him. But the man and woman
+of the houſe (at firſt) gave no credit to what he ſaid.</p>
+            <p>
+               <hi>But Mr.</hi> Saltmarſh <hi>proceeded in a continued diſcourſe (as if he had
+been preaching in a Pulpit) declaring unto them many things from God;</hi>
+That the great and dreadfull day of the Lord is neere, when all men ſhall be
+judged by Jeſus Chriſt, And then ſhall the wayes, and actions of all men ap<g ref="char:EOLhyphen"/>peare,
+Beleevers ſtand on a glorious Goſpell, ſpirituall bottome, ſupported by
+their Saviour: And Infidels, claſping about the ſtones and Pillers of the
+World, and fleſhly phancy, be throwne downe to hell for ever. The Lord hath
+great things (which he intends) to doe ſhortly. God will burne up, and conſume
+the earthly matter of his Saints; to tranſlate them out of worldly darkeneſſe
+into his heavenly light, through Jeſus Chriſt; and then will God draw up all
+the ſparkles of glory in one confluence to himſelfe, and cauſe every thing to re<g ref="char:EOLhyphen"/>turne
+to its firſt originall end.</p>
+            <p>By that time he had (a little) inlarged himſelfe upon theſe things, the
+people of the houſe began to be ſerious and lay them to their conſcien<g ref="char:EOLhyphen"/>ces
+(amazed at the things they heard,) were ſmitten in their hearts, ſeem<g ref="char:EOLhyphen"/>ed
+very penitent. And perſwading ſome further doctrinall points from
+him, occaſioned his longer ſtay, then was before intended.</p>
+            <p>But (whileſt it was yet darke,) early on <hi>Munday</hi> December 6. in the
+morning Mr. <hi>Saltmarſh</hi> departed from his Inne, intending towards <hi>Win<g ref="char:EOLhyphen"/>ſor,</hi>
+but (by miſtake of his way) fell into the Forreſt, where having
+view of an houſe, he approached it: and called the good man (then up)
+who upon his deſire gave him directions of his way; and Mr. <hi>Saltmarſh</hi>
+gave him inſtructions in the way to heaven, and told him many things,
+concerning God, <hi>and his purpoſe to deſtroy the wicked, and draw the ſaints
+to himſelf, declaring</hi> (alſo <hi>the vanity of corrupt hart<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, the purity of called ſaints,
+and the like.</hi>
+            </p>
+            <p>The man being much taken here with, accompanied him in his way
+through the Forreſt, converſing with him till he came neere <hi>Windſor,</hi> and
+then returned.</p>
+            <p>About nine in the morning Mr. <hi>Saltmarſh</hi> came to the Head-quarters,
+and ſaw divers of his acquaintance.</p>
+            <p>
+               <hi>He met with Mr. A. (one of the Adjutators) who ſaluting him, he ſaid,</hi>
+Mr. A. depart from theſe Tents, leſt you periſh with them, for the Lord hath re<g ref="char:EOLhyphen"/>vealed
+to me, that he is very angry with this Army, becauſe they have forſaken
+Him.</p>
+            <p>
+               <pb n="4" facs="tcp:124491:4"/>
+               <hi>Captain—(an Officer of the Army asked him how he did. To whom
+he ſaid,</hi> that he had nothing (from God) to ſay to him, for he had alwaies been
+a ſeeker of himſelf, under ſpetious pretences.</p>
+            <p>Seeing of C. D. (another Officer) he ſaluted him (with good morrow)
+He ſaid, <hi>he could not own him, for he was for deſtruction:</hi> who ſeeing his
+countenance and carriage, and hearing his words (for he had ſtrange ex<g ref="char:EOLhyphen"/>preſſions,
+both to him, and others) was ſtartled.</p>
+            <p>
+               <hi>Mr.</hi> Saltmarſh <hi>then went to the Generall Coun<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell, where ſome of the
+Officers were met in expectation of the Generall and the reſt, to ſit in
+Councell, And he ſpake before them, (both the<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and alſo afterwards)
+much to this purpoſe.</hi> That he was come thither to reveale to them, what he
+had received from God. That though the Lord <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> much for them, and by
+them, yet he had of late left them, and was not in their <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, becauſe they had
+forſaken him. That God would not proſper their conſultations, but deſtroy them
+by diviſions amongſt themſelves. That he had formerly come to them like a Lamb,
+but that God had now raiſed in him the ſpirit of a Lion, becauſe they had fought
+to deſtroy the people of God. That the controverſie now before them, calls for
+the tendereſt judgement, becauſe it concerns their faithfull ones, thoſe impriſoned
+of their own members, having alwayes ſtood by them through the greateſt diffi<g ref="char:EOLhyphen"/>culties.
+That he would adviſe all the faithfull to depart from them, leſt they be
+deſtroyed with them. <hi>And many more ſuch like expreſſions.</hi>
+            </p>
+            <p>
+               <hi>Some Officers asked him how hee came to know theſe things; to
+whom hee anſwered, That</hi> God (who had heretofore enabled him to tell
+them what they know came ſince to paſſe) had revealed thoſe things to him.
+<hi>And he told ſome of the Officers,</hi> that what he ſp<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke he was ſure, that they
+knew in their Conſciences it was true.</p>
+            <p>
+               <hi>He told them that</hi> he wiſhed their own arguments might find <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to their
+ſpirits, that the ſome ſounding of bowels might be heard in them to <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+that they once wiſhed to <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ear in others, that would have inſlaved them, that they
+would in the flowings of an heavenly ſpirit, with a fountaine of tears, let the
+world ſee that men are not infallible, but may miſtake their brethren for enemies.</p>
+            <p>
+               <hi>Some ſaid that Mr.</hi> Saltmarſh <hi>ſtared like one diſtracted, And one told
+him that he had been ſick and was not yet well recovered: To whom he
+anſwered,</hi> That he had (<hi>indeed</hi>) been ſick not long ſince: But that now he was
+(be thanked God) very well in health, and ſenſible what he ſpake: <hi>And ſaid,</hi> it
+was the laſt time that ever he ſhould ſpeak to them.</p>
+            <p>
+               <hi>Afterwards, he went to the Generall, (but did not move his hat,) ſay<g ref="char:EOLhyphen"/>ing,</hi>
+That he had not command from God to honour him now at all: That he had
+honoured him ſo much, that he offended in doting upon his perſon. That God had
+revealed unto him, that he was highly diſpleaſed with his com<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ting of Saints,
+<pb n="5" facs="tcp:124491:4"/>
+and would not now proſper him, nor could he honour him.</p>
+            <p>
+               <hi>When he had parted with his Excellency he went to L. G. whom he
+met in the Hall, who asked him how he did, Mr.</hi> Saltmarſh <hi>put not off
+his hat to him neither: But told him that the</hi> Lord was very angry with him,
+for cauſing thoſe godly men to be impriſoned, ſleighted, and abuſed, for thoſe En<g ref="char:EOLhyphen"/>gagements
+which he had formerly owned, and the perſons ſuch as he knew faith<g ref="char:EOLhyphen"/>full
+in the Cauſe of God: That the Armies falling off from their former princi<g ref="char:EOLhyphen"/>ples,
+it would be their ruine, and deſtruction: and would raiſe ſuch fractions
+among themſelves, as would undo them. <hi>And much other diſcourſe to that
+purpoſe.</hi>
+            </p>
+            <p>L. G. told him, that ſome things were not ſo well as he could wiſh:
+but that he wondred at thoſe paſſages that fell from him. But Mr. <hi>Salt<g ref="char:EOLhyphen"/>marſh</hi>
+proceeded on, declaring to him, as he had done to the Generall
+Councell of the Army. And at laſt L. G. took a paper out of his pocket,
+(which he ſaid was ſent to him from Mr. S.) which he read: Some of
+the matter being not much different from what was then ſaid.</p>
+            <p>Another Officer (then preſent) ſpake of ſomething that had lately
+fallen from an other Member of the Army relating to that purpoſe.</p>
+            <p>
+               <hi>Hereupon Mr.</hi> Saltmarſh <hi>replyed (ſaying</hi>) Looke ye here now, out of the
+mouthes of two or three witneſſes, the truth of God is confirmed and I am glad
+<hi>ſaith he to L. G.</hi> that there is ſome tenderneſſe of heart in you: <hi>And (after
+ſome further diſcourſe) they parted.</hi>
+            </p>
+            <p>Then Mr. <hi>Saltmarſh</hi> went to <hi>C.</hi> I. and ſpake to that effect to him,
+which hee had done to the reſt, and told him <hi>that God had left him and
+would not proſper his councell.</hi>
+            </p>
+            <p>
+               <hi>He met with</hi> C. R. <hi>and told him the meſſage that</hi> he was come to de<g ref="char:EOLhyphen"/>clare
+to the Army from God.</p>
+            <p>
+               <hi>To Mr.</hi> P. <hi>he ſaid,</hi> That he had many good things in him, but he was (of
+late) overcome by others, who have miſ led him: but that there is <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>derneſſe
+in his ſpirit. <hi>And bad him take heede that his heart be not har<g ref="char:EOLhyphen"/>dened.</hi>
+            </p>
+            <p>
+               <hi>To Mr.</hi> C. (<hi>who was to receive a ſumme of monies for him) he decla<g ref="char:EOLhyphen"/>red</hi>
+that he would not receive it. <hi>And being demanded how he could be
+without it, he ſaid,</hi> God would provide, but to take a penny of it to himſelfe
+he durſt not: <hi>And appointed Mr.</hi> C. (<hi>upon the receipt of the monies</hi>) to
+diſtribute it to poore priſoners in <hi>London,</hi> to the ſouldiers ſecured in <hi>Wind<g ref="char:EOLhyphen"/>ſor,</hi>
+about the late diſorder, and to other diſtreſſed Chriſtians.</p>
+            <p>
+               <hi>On</hi> Tueſday <hi>morning December 7. Mr.</hi> Saltmarſh <hi>went (againe) to</hi>
+L. G. <hi>telling him that he had one thing yet to deliver to him; which
+God required of him (which was this</hi>) That he would (immediately) take
+<pb n="6" facs="tcp:124491:5"/>
+effectuall courſe for the inlargement of the members of the Army, that were
+committed for not complying with the Generall Councell: And that he do not
+proſecute againſt thoſe who have beene ſo faithfull. (<hi>And ſome other expreſ<g ref="char:EOLhyphen"/>ſions
+to that purpoſe</hi>).</p>
+            <p>Mr. <hi>Saltmarſh</hi> further declared, that he was ſorry to ſee ſuch obſtina<g ref="char:EOLhyphen"/>cy.
+And that although ſome tenderneſſe was upon his ſpirit (the day
+before) yet now he ſaw that his heart was hardned. But wiſhed him
+to be mindfull of what God required of him.</p>
+            <p>That morning Mr. <hi>Saltmarſh</hi> declared to C. B. and others, the ſame
+things again, which he had done the day before, at the Generall Coun<g ref="char:EOLhyphen"/>cell.</p>
+            <p>
+               <hi>C. B.</hi> asked him, whether he would adviſe all the honeſt faithfull mem<g ref="char:EOLhyphen"/>bers
+to leave the Army, and lay down Armes, and quite leave off the
+Military practice, To whom he anſwered, <hi>No;</hi> For, ſaith he, <hi>God hath
+yet a great work to be done: In which he will make uſe of Members of this
+Army, to do great things for the glory of his Name.</hi>
+            </p>
+            <p>After that he had taken his leave of the Officers, telling them, <hi>That he
+had then done his errand, and must leave them, never to ſee the Army more:</hi> he
+came that night to <hi>London.</hi>
+            </p>
+            <p>On Wedneſday <hi>Decemb.</hi> 8. he acquainted divers of his Friends (about
+the City, what he had done, and took his leave of them) ſaying to ſome
+that his work was <hi>now</hi> done, his Meſſage delivered: And deſired them to
+be carefull of his wife.</p>
+            <p>On Thurſday <hi>Decemb.</hi> 9. he went from <hi>London</hi> very cheerfull and well,
+and came that night to his houſe neere <hi>Gilford,</hi> not ſick at all, and told his
+wife what he had done.</p>
+            <p>On Friday <hi>Decemb.</hi> 10. he told his wife, that he had now finiſhed his
+courſe; and muſt go to his Father: And in the afternoon he complain<g ref="char:EOLhyphen"/>ed
+that his head did ake, deſiring to lie down upon his bed, where his
+wife took all poſſible care ſhe could of him. But whatſoever he received
+for ſuſtenance, he could not retain it: yet he reſted well, all that night.</p>
+            <p>On Saturday <hi>Decemb.</hi> 11. In the morning, he was taken ſpeechleſſe.
+And in the afternoon, about foure or five a clock, he dyed very peaceably
+and quietly. And his ſoule is, no doubt, at reſt with the Lord.</p>
+            <closer>
+               <dateline>Windſor, Examinat.
+<date>Decemb. 27. 1647.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
